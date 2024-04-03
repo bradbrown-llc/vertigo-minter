@@ -1,6 +1,6 @@
 import { kvv } from './lib/kvv.ts'
 import { ejra } from './lib/ejra.ts'
-import { Mint } from 'https://cdn.jsdelivr.net/gh/bradbrown-llc/vertigo@0.0.5/lib/Mint.ts'
+import { Mint } from 'https://cdn.jsdelivr.net/gh/bradbrown-llc/vertigo@0.0.16/lib/Mint.ts'
 import { processId } from './lib/processId.ts'
 import { bridge } from './lib/bridge.ts'
 import { tokenAddress } from './lib/tokenAddress.ts'
